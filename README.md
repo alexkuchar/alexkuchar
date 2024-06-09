@@ -1,9 +1,6 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/120761328?v=4" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Aley, a full-time full-stack web developer 👨‍💻</div>  
+
+### <div align="center">I'm Alex, a full-time full-stack web developer 👨‍💻</div>  
   
 
 <br/>  
