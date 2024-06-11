@@ -20,11 +20,7 @@ I'm a Full Stack Web Developer with a passion for creating innovative and effici
 
 ## Projects
 
-### Awesome Web App
-A full-stack web application designed to help users manage their tasks efficiently. Built with React, Node.js, and MongoDB.
-
-- [GitHub Repository](https://github.com/yourusername/awesome-web-app)
-- [Live Demo](https://yourappdemo.com)
+### Projects are yet to be added.
 
 ---
 
