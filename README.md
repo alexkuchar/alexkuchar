@@ -1,8 +1,6 @@
-# Hi, I'm Alex.
-I like to code fun stuff for the Web.
-
-### This README is a not quite done yet.
-  
+<p align="center">
+	<img src="header.png">
+</p>
 
 <br/>  
 
