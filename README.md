@@ -1,4 +1,7 @@
- 
+# Hi, I'm Alex.
+I like to code fun stuff for the Web.
+
+### This README is a not quite done yet.
   
 
 <br/>  
