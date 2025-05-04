@@ -48,8 +48,8 @@
 ### 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/alexkuchar/your-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexkuchar&repo=your-project&theme=dark" />
+  <a href="https://github.com/alexkuchar/octopurge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexkuchar&repo=octopurge&theme=dark" />
   </a>
 </div>
 
