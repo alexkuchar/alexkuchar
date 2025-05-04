@@ -91,7 +91,9 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </div>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
+  </picture>
 </div>
