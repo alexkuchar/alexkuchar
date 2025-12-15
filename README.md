@@ -23,7 +23,7 @@
 
 ---
 
-##### [CSReact — Full-Stack, Production-Ready Trello Clone](https://github.com/alexkuchar/csreact)
+##### [CSReact — Full-Stack, Production-Ready Trello Clone](https://github.com/alexkuchar/cs-react)
 
 CSReact is a feature-rich, containerized project management solution built with Vite, React + React Router for the website, Expo for the mobile app, and .NET for the Backend.
 ##### [Octopurge](https://github.com/alexkuchar/octopurge)
