@@ -2,22 +2,21 @@
 ![Banner](./assets/banner-dark.png#gh-dark-mode-only)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alexkuchar&hide=stars,prs,issues&theme=dark&show_icons=true&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alexkuchar&theme=dark&hide=stars,prs,issues&show_icons=true&hide_border=true">
   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=alexkuchar&hide=stars,prs,issues&show_icons=true&hide_border=true">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkuchar&langs_count=6&layout=compact&theme=dark&hide_border=true&card_width=445">
   <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkuchar&langs_count=6&layout=compact&hide_border=true&card_width=445">
 </picture>
-<br clear="both"/>
 
 <br clear="both"/>
 <br />
 
 ---
 
-### [CSReact — Full-Stack, Production-Ready Trello Clone](https://github.com/alexkuchar/csreact)
-CSReact is a feature-rich, containerized project management solution built with Vite, React + React Router for the website, Expo for the mobile app, and .NET for the Backend.
+##### [CSReact — Full-Stack, Production-Ready Trello Clone](https://github.com/alexkuchar/csreact)
 
-### [Octopurge](https://github.com/alexkuchar/octopurge)
+CSReact is a feature-rich, containerized project management solution built with Vite, React + React Router for the website, Expo for the mobile app, and .NET for the Backend.
+##### [Octopurge](https://github.com/alexkuchar/octopurge)
 Octopurge is a CLI made for bulk-deleting GitHub Repositories. It's built with Chalk, Commander, Inquirer, Octokit and Ora.
