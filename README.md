@@ -2,9 +2,17 @@
 ![Banner](./assets/banner-dark.png#gh-dark-mode-only)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alexkuchar&theme=dark&hide=stars,prs,issues&show_icons=true&hide_border=true">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=alexkuchar&hide=stars,prs,issues&show_icons=true&hide_border=true">
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=alexkuchar&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=alexkuchar&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=alexkuchar&show_icons=true" />
 </picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkuchar&langs_count=6&layout=compact&theme=dark&hide_border=true&card_width=445">
   <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkuchar&langs_count=6&layout=compact&hide_border=true&card_width=445">
