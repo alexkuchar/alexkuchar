@@ -23,8 +23,9 @@
 
 ---
 
-##### [CSReact — Full-Stack, Production-Ready Trello Clone](https://github.com/alexkuchar/cs-react)
+##### [Canvas — A not-so-enterprise Trello clone](https://github.com/alexkuchar/canvas)
 
-CSReact is a feature-rich, containerized project management solution built with Vite, React + React Router for the website, Expo for the mobile app, and .NET for the Backend.
+Canvas is a Trello-like project management app.
+It starts as a simple MVP and may evolve into a production-ready, enterprise-grade system as the project matures.
 ##### [Octopurge](https://github.com/alexkuchar/octopurge)
 Octopurge is a CLI made for bulk-deleting GitHub Repositories. It's built with Chalk, Commander, Inquirer, Octokit and Ora.
